@@ -61,8 +61,7 @@ Stack : Python, Streamlit, Pandas, Plotly, LyricsGenius
 
 * 7800 songs collected through Genius API
 * Nice looking charts automatically generated from data
-
-Not finished
+* Web app with Streamlit
 
 # Other
 
