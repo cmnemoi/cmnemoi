@@ -70,7 +70,7 @@ Not finished
 
 Eternal Twin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
 
-### Web scrapper
+### [Web scrapper](https://github.com/cmmm976/Eternal-Twin/commits/popotamo-web-scraper?commits=cmmm976)
 
 Developping a web scrapper in Rust to collect players' data before sites are offline.
 
