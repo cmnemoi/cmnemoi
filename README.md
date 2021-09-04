@@ -57,7 +57,7 @@ Stack : **SAS**
 
 A web app allowing you to compare French Hip-Hop lyrics.
 
-Stack : Python, Streamlit, Pandas, Plotly, LyricsGenius
+Stack : **Python, Streamlit, Pandas, Plotly, LyricsGenius**
 
 * 7800 songs collected through Genius API
 * Nice looking charts automatically generated from data
@@ -71,7 +71,7 @@ Eternal Twin is an open-source project created to preserve and recreate Motion T
 
 ### [Web scrapper](https://github.com/cmmm976/Eternal-Twin/commits/popotamo-web-scraper?commits=cmmm976)
 
-Developping a web scrapper in Rust to collect players' data before sites are offline.
+Developping a web scrapper in Rust to collect players' data before sites get offline.
 
 ## Misc
 
