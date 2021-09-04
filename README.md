@@ -5,7 +5,7 @@
 * 💞️ Current project : **Web scraper for the open source project Eternal-Twin**
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), SQL** 
-* Familiar : **Git, R** 
+* Familiar : **Git, R, VBA** 
 * Notions : **C, C++/Qt, Java, SAS, Rust** 
 * 📫 Reach me by mail (charlesmeldhine.madimnemoi@gmail.com) or LinkedIn (https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-alternant-data-analyst/)
 
