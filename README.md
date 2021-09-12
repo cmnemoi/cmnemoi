@@ -71,7 +71,10 @@ Eternal Twin is an open-source project created to preserve and recreate Motion T
 
 ### [Web scrapper](https://github.com/cmmm976/EternalTwin/commits/popotamo-web-scraper?commit=cmmm976)
 
-Developping a web scrapper in Rust to collect players' data before sites get offline.
+I developped a web scrapper in Rust to collect players' data before sites get offline. I learned :
+* Rust language
+* How to do use and create unit tests
+* Git : fork, commit, create branch...
 
 ## Misc
 
