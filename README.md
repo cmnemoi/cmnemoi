@@ -2,7 +2,7 @@
 
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship**.
 * 🌱 I’m currently learning **Data Science, Machine Learning and good development practices**
-* 💞️ Current project : **Web scraper for the open source project Eternal-Twin**
+* 💞️ Current project : **Lyrics Explorer**
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), SQL** 
 * Familiar : **Git, R, VBA** 
@@ -53,7 +53,7 @@ Stack : **SAS**
 
 # Data Analysis projects
 
-## [Lyrics Explorator](https://github.com/cmmm976/LyricsExplorator)
+## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
 
 A web app allowing you to compare French Hip-Hop lyrics.
 
@@ -65,11 +65,11 @@ Stack : **Python, Streamlit, Pandas, Plotly, LyricsGenius**
 
 # Other
 
-## [Eternal Twin](https://github.com/cmmm976/Eternal-Twin)
+## [Eternal Twin](https://github.com/cmmm976/EternalTwin)
 
 Eternal Twin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
 
-### [Web scrapper](https://github.com/cmmm976/Eternal-Twin/commits/popotamo-web-scraper?commits=cmmm976)
+### [Web scrapper](https://github.com/cmmm976/EternalTwin/commits/popotamo-web-scraper?commit=cmmm976)
 
 Developping a web scrapper in Rust to collect players' data before sites get offline.
 
