@@ -59,10 +59,11 @@ Stack : **SAS**
 
 A web app allowing you to compare French Hip-Hop lyrics.
 
-Stack : **Python, Streamlit, Pandas, Plotly, LyricsGenius**
+Stack : **Python, Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchemy, MySQL, AWS RDS**
 
-* 7800 songs collected through Genius API
-* Nice looking charts automatically generated from data and users' types
+* 21723 songs collected through LyricsGenius API
+* MySQL database hosted on a AWS RDS DB instance
+* Nice looking charts automatically generated from data and user entries
 * Web app with Streamlit
 
 # Other
