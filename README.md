@@ -2,11 +2,11 @@
 
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship**.
 * 🌱 I’m currently learning **Data Science, Machine Learning and good development practices**
-* 💞️ Current project : **Lyrics Explorer**
+* 💞️ Current project : **Ballon d'Or Prediction**
 * 🛠️ Skills 
-* Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), SQL** 
-* Familiar : **Git, R, VBA** 
-* Notions : **C, C++/Qt, Java, SAS, Rust** 
+* Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
+* Familiar : **Git, R, VBA, SAS** 
+* Notions : **C, C++/Qt, Java, Rust** 
 * 📫 Reach me by mail (charlesmeldhine.madimnemoi@gmail.com) or LinkedIn (https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-alternant-data-analyst/)
 
 # Data Science Projects
@@ -80,11 +80,13 @@ I developped a web scrapper in Rust to collect players' data before sites get of
 * Git : fork, commit, create branch...
 
 ## Misc
-
-[Youtube API call script](https://github.com/cmmm976/ExtractingDataFromMyYTChannel), [PCA charts in R](https://github.com/cmmm976/APCA), [C++/Qt basic desktop app with probability calculus](https://github.com/cmmm976/KillPredictor), [Terminal-based Hangman game in Python](https://github.com/cmmm976/zPendu), [PubMed Presence Plugin in Typescript](https://github.com/cmmm976/PubMedPreMidPresence)...
-
-
-
+  
+ * [Desktop app which predicts PvP victory rate in Mush (C++/Qt)](https://github.com/cmmm976/KillPredictor)
+ * [A Livesplit Autosplitter for Nuclear Blaze](https://github.com/cmmm976/NuclearBlazeAutoSplitter)
+ * [PCA charts in R](https://github.com/cmmm976/APCA)
+ * [Youtube API call script](https://github.com/cmmm976/ExtractingDataFromMyYTChannel)
+ * [PubMed Presence Plugin in Typescript](https://github.com/cmmm976/PubMedPreMidPresence)
+ * [Terminal-based Hangman game in Python](https://github.com/cmmm976/zPendu) 
 
 <!---
 cmmm976/cmmm976 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
