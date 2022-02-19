@@ -2,7 +2,7 @@
 
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship**.
 * 🌱 I’m currently learning **Data Science, Machine Learning and good development practices**
-* 💞️ Current project : [**Dead Cells Speedashing speedrun bot**](https://github.com/cmmm976/DCspeedrunbot)
+* 💞️ Current project : [**Dead Cells Speedashing Discord bot**](https://github.com/cmmm976/DC_Speedashing_bot)
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
 * Familiar : **Git, R, VBA, SAS** 
