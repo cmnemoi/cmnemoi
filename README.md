@@ -68,6 +68,27 @@ Stack : **Python, Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 
 # Other
 
+## [Dead Cells Speedashing Discord bot](https://github.com/cmmm976/DC_Speedashing_bot)
+A discord bot for the Dead Cells Speedrunning server.
+
+**Stack : Python 3.6+, Docker, OVH Bare Metal Cloud**
+
+**Features :**
+ 
+ * Runs 24/7 in a Cloud-hosted container
+ * Posts new verified runs in a dedicated channel by interrogating speedrun.com API
+ * Posts a runner PB through the !runner command by interrogating speedrun.com API
+ * Posts a random copypasta through the !copypasta command
+ * Automatically posts streamers currently playing Dead Cells
+ * Posts a category world records through !wr commands
+ * Posts funny reactions to Dead Cells speedruns through !casul command
+
+**REX :**
+ * Learned to use Docker containers and images
+ * Re-used speedrun.com API
+ * Re-learned to use Linux commands to configure and use the distant VPS for hosting the bot
+
+
 ## [Eternal Twin](https://github.com/cmmm976/EternalTwin)
 
 Eternal Twin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
