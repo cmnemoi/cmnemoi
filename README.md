@@ -6,7 +6,7 @@
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
 * Familiar : **Git, R, VBA, SAS** 
-* Notions : **C, C++/Qt, Java, Rust** 
+* Notions : **C, C++/Qt, Java, Rust, AWS, Docker** 
 * 📫 Reach me by mail (charlesmeldhine.madimnemoi@gmail.com) or LinkedIn (https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-alternant-data-analyst/)
 
 # Data Science Projects
@@ -67,6 +67,18 @@ Stack : **Python, Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 * Web app with Streamlit
 
 # Other
+
+## [Base MAS Generator (private)](https://github.com/cmnemoi/BaseMASGenerator)
+
+BASE MAS Generator is a graphic application written in Python and Qt which allows you to generate Excel dashboards from INSEE census thematic files.
+
+Stack : [Python 3.6](https://docs.python.org/fr/3.6/), [Openpyxl 3.0.9](https://openpyxl.readthedocs.io/en/stable/), [fbs 1.0.2](https://github.com/mherrmann/fbs-tutorial), [tqdm 4.62.3](https://github.com/tqdm/tqdm), [PyQt5 5.15.2](https://doc.bccnsoft.com/docs/PyQt5/)
+
+ * 20 dashboards generated in 10 minutes instead of an entire day
+ * Learned to use PyQt to create GUI-apps
+ * First professionnal project
+
+
 
 ## [Dead Cells Speedashing Discord bot](https://github.com/cmmm976/DC_Speedashing_bot)
 A discord bot for the Dead Cells Speedrunning server.
