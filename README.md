@@ -68,6 +68,31 @@ Stack : **Python, Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 
 # Other
 
+## Open source contributions
+
+### [Visions](https://github.com/dylan-profiler/visions)
+
+`Visions` provides a set of tools for defining and using semantic data types. Used by 2 700 repositories like [pandas profiling](https://github.com/pandas-profiling/pandas-profiling), [Compressio](https://github.com/dylan-profiler/compressio) and [Bitrook](https://www.bitrook.com/).
+
+I made a bugfix to make it usable with Pandas 1.3.x through pandas profiling.
+
+### [srcomapi](https://github.com/blha303/srcomapi)
+
+A Python 3 implementation of the speedrun.com REST API used by 19 repositories.
+
+I made a [bugfix](https://github.com/blha303/srcomapi/pull/21) to make the module able to get all the results of a query if they exceed 200.
+
+### [Eternal Twin](https://gitlab.com/eternaltwin/etwin)
+
+Eternal Twin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
+
+#### [Web scrapper](https://gitlab.com/eternaltwin/etwin/-/merge_requests/362)
+
+I developped a web scrapper in Rust to collect players' data before sites get offline. I learned :
+* Rust language
+* How to do use and create unit tests
+* Git : fork, commit, create branch...
+
 ## [Base MAS Generator (private)](https://github.com/cmnemoi/BaseMASGenerator)
 
 BASE MAS Generator is a graphic application written in Python and Qt which allows you to generate Excel dashboards from INSEE census thematic files.
@@ -77,8 +102,6 @@ Stack : [Python 3.6](https://docs.python.org/fr/3.6/), [Openpyxl 3.0.9](https://
  * 20 dashboards generated in 10 minutes instead of an entire day
  * Learned to use PyQt to create GUI-apps
  * First professionnal project
-
-
 
 ## [Dead Cells Speedashing Discord bot](https://github.com/cmmm976/DC_Speedashing_bot)
 A discord bot for the Dead Cells Speedrunning server.
@@ -100,17 +123,6 @@ A discord bot for the Dead Cells Speedrunning server.
  * Re-used speedrun.com API
  * Re-learned to use Linux commands to configure and use the distant VPS for hosting the bot
 
-
-## [Eternal Twin](https://github.com/cmmm976/EternalTwin)
-
-Eternal Twin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
-
-### [Web scrapper](https://github.com/cmmm976/EternalTwin/commits/popotamo-web-scraper?commit=cmmm976)
-
-I developped a web scrapper in Rust to collect players' data before sites get offline. I learned :
-* Rust language
-* How to do use and create unit tests
-* Git : fork, commit, create branch...
 
 ## Misc
   
