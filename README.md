@@ -66,6 +66,14 @@ Stack : **Python, Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 * Nice looking charts automatically generated from data and user entries
 * Web app with Streamlit
 
+## [Projet d'analyse des données](https://github.com/cmnemoi/AnalyseDesDonn-es)
+A school project in which we had to apply tools of multidimensional analysis (clustering, PCA, MCA, HCPC...) to extract insights of hobbies and german credit datasets.
+
+Stack : **R (FactoMineR, plotly)**
+
+* Used HCPC, PCA, MCA and clustering
+* Analysed correlation circles, dendograms and factorial design plots to identify profiles in the datasets
+
 # Other
 
 ## Open source contributions
