@@ -2,7 +2,7 @@
 
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship**.
 * 🌱 I’m currently learning **Data Science, Machine Learning and good development practices**
-* 💞️ Current project : [**WR Explorer**](https://github.com/cmnemoi/WRExplorer)
+* 💞️ Current project : [**Ballon d'Or Prediction*](https://github.com/cmnemoi/Ballond-OrPrediction)
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
 * Familiar : **Git, R, VBA, SAS** 
