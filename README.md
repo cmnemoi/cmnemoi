@@ -66,6 +66,14 @@ Stack : **Python, Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 * Nice looking charts automatically generated from data and user entries
 * Web app with Streamlit
 
+## [SpeeDons Twitch Chat Analysis](https://github.com/cmnemoi/SpeeDonsChatAnalysis)
+
+Analysis of SpeeDons 2022 Twitch chat.
+ 
+Twitter thread with insights : https://twitter.com/CMnemoi/status/1518210494095671296
+
+![](https://camo.githubusercontent.com/c74af89052649936e9a97f9e86f7591d968e39ea01f058c08ce43778704ea3d2/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f465248444e53465849414d323449683f666f726d61743d6a7067266e616d653d39303078393030)
+
 ## [Projet d'analyse des données](https://github.com/cmnemoi/AnalyseDesDonn-es)
 A school project in which we had to apply tools of multidimensional analysis (clustering, PCA, MCA, HCPC...) to extract insights of hobbies and german credit datasets.
 
