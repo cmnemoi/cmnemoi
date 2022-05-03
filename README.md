@@ -115,8 +115,9 @@ BASE MAS Generator is a graphic application written in Python and Qt which allow
 
 Stack : [Python 3.6](https://docs.python.org/fr/3.6/), [Openpyxl 3.0.9](https://openpyxl.readthedocs.io/en/stable/), [fbs 1.0.2](https://github.com/mherrmann/fbs-tutorial), [tqdm 4.62.3](https://github.com/tqdm/tqdm), [PyQt5 5.15.2](https://doc.bccnsoft.com/docs/PyQt5/)
 
- * 20 dashboards generated in 10 minutes instead of an entire day
+ * 360 dashboards generated in 3 minutes instead of an entire week
  * Learned to use PyQt to create GUI-apps
+ * Use a lot of Git and Github features (Releases...)
  * First professionnal project
 
 ## [Dead Cells Speedashing Discord bot](https://github.com/cmmm976/DC_Speedashing_bot)
