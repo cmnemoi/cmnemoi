@@ -5,8 +5,8 @@
 * 💞️ Current project : [**Personal Website**](https://github.com/cmnemoi/personal-website)
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
-* Familiar : **Git, R, VBA, SAS** 
-* Notions : **C, C++/Qt, Java, Rust, AWS, Docker** 
+* Familiar : **Git, R, VBA, SAS, API, Web Scrapping** 
+* Notions : **C, C++/Qt, Java, Rust, AWS, Docker, HTML/CSS** 
 * 📫 Reach me by mail (charlesmeldhine.madimnemoi@gmail.com) or LinkedIn (https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-alternant-data-analyst/)
 
 # Data Science Projects
