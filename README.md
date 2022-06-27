@@ -1,12 +1,11 @@
 # Hi !
 
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship**.
-* 🌱 I’m currently learning **Web Developpement** through [@angelabauer](https://github.com/angelabauer) Complete 2022 Web Developpement Bootcamp
-* 💞️ Current project : [**Personal Website**](https://github.com/cmnemoi/personal-website)
+* 🌱 I’m currently contributing to [the V Tensor Library](https://github.com/vlang/vtl)
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
 * Familiar : **Git, R, VBA, SAS, API, Web Scrapping** 
-* Notions : **C, C++/Qt, Java, Rust, AWS, Docker, HTML/CSS** 
+* Notions : **C, C++/Qt, Java, Rust, AWS, Docker, V** 
 * 📫 Reach me by mail (charlesmeldhine.madimnemoi@gmail.com) or LinkedIn (https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-alternant-data-analyst/)
 
 # Data Science Projects
