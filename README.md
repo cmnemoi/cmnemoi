@@ -1,11 +1,11 @@
 # Hi !
 
-* 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship**.
-* 🌱 I’m currently contributing to [the V Tensor Library](https://github.com/vlang/vtl)
+* 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship** the day, **Backend developper** the night.
+* 🌱 I’m currently contributing to [mush.vg](http://mush.vg) Eternal Twin presevation project : [eMush](https://gitlab.com/eternaltwin/mush/mush)
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
 * Familiar : **Git, R, VBA, SAS, API, Web Scrapping** 
-* Notions : **C, C++/Qt, Java, Rust, AWS, Docker, V** 
+* Notions : **C, C++/Qt, Java, Rust, AWS, Docker** 
 * 📫 Reach me by mail (charlesmeldhine.madimnemoi@gmail.com) or LinkedIn (https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-alternant-data-analyst/)
 
 # Data Science Projects
@@ -85,6 +85,26 @@ Stack : **R (FactoMineR, plotly)**
 
 ## Open source contributions
 
+### [Eternal Twin](https://gitlab.com/eternaltwin/etwin)
+
+Eternal Twin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
+
+#### [eMush](https://gitlab.com/eternaltwin/mush/mush)
+Mush is a browser-based free-to-play multiplayer game by the French company Motion Twin released in 2013.
+The plot of the game, wherein an alien entity (the titular "Mush") takes over some of the 16 people on a spaceship and the players attempt to uncover who it is, has been compared to John Carpenter's The Thing.
+
+I am a [regular](https://gitlab.com/users/cmnemoi/activity) contributor to the project as a backend developer since July 2022.
+
+Stack : **PHP / Symfony, Gitlab**
+
+#### [Web scrapper](https://gitlab.com/eternaltwin/etwin/-/merge_requests/362)
+
+I developped a web scrapper in Rust to collect players' data before sites get offline. I learned :
+* Rust language
+* How to do use and create unit tests
+* Git : fork, commit, create branch...
+
+
 ### [Visions](https://github.com/dylan-profiler/visions)
 
 `Visions` provides a set of tools for defining and using semantic data types. Used by 2 700 repositories like [pandas profiling](https://github.com/pandas-profiling/pandas-profiling), [Compressio](https://github.com/dylan-profiler/compressio) and [Bitrook](https://www.bitrook.com/).
@@ -96,17 +116,6 @@ I made a bugfix to make it usable with Pandas 1.3.x through pandas profiling.
 A Python 3 implementation of the speedrun.com REST API used by 19 repositories.
 
 I made a [bugfix](https://github.com/blha303/srcomapi/pull/21) to make the module able to get all the results of a query if they exceed 200.
-
-### [Eternal Twin](https://gitlab.com/eternaltwin/etwin)
-
-Eternal Twin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
-
-#### [Web scrapper](https://gitlab.com/eternaltwin/etwin/-/merge_requests/362)
-
-I developped a web scrapper in Rust to collect players' data before sites get offline. I learned :
-* Rust language
-* How to do use and create unit tests
-* Git : fork, commit, create branch...
 
 ## [Base MAS Generator (private)](https://github.com/cmnemoi/BaseMASGenerator)
 
