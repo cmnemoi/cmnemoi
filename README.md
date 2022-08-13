@@ -69,7 +69,7 @@ Stack : **Python, Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 
 Analysis of SpeeDons 2022 Twitch chat.
  
-Twitter thread with insights : https://twitter.com/CMnemoi/status/1518210494095671296
+[Twitter thread with insights (archive)](https://github.com/cmnemoi/cmnemoi/files/9331785/ThreadReader_0_cmnemoi_1518210494095671296.pdf)
 
 ![](https://camo.githubusercontent.com/c74af89052649936e9a97f9e86f7591d968e39ea01f058c08ce43778704ea3d2/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f465248444e53465849414d323449683f666f726d61743d6a7067266e616d653d39303078393030)
 
