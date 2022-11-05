@@ -1,6 +1,6 @@
 # Hi !
 
-* 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Analyst in apprenticeship** the day, **Backend developper** the night.
+* 👋 I’m **Charles-Meldhine Madi Mnemoi**, **Data Scientist apprentice* the day, **Backend developper** the night.
 * 🌱 I’m currently contributing to [mush.vg](http://mush.vg) Eternal Twin presevation project : [eMush](https://gitlab.com/eternaltwin/mush/mush)
 * 🛠️ Skills 
 * Proficient :  **Python (Pandas, Scikit-Learn, Matplotlib, Plotly, Flask, Beautiful Soup, Streamlit), PL/SQL** 
