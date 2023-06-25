@@ -3,9 +3,9 @@
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist apprentice** by day and a **Backend developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
     * Proficient in **Data Analysis (Pandas, Matplotlib, Plotly)** and **Machine Learning (Scikit-learn, PyCaret)** with **Python**
-    * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GItHub Actions)** and **testing (pytest)** 
-    * Some experience in **Backend web development (APIs with Flask)** and prototyping web apps with **Streamlit**
-* 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-apprenti-alternant-data-scientist/)
+    * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GitHub Actions)** and **testing (pytest)** 
+    * Some experience in **Backend web development (APIs with Flask)**, prototyping web apps with **Streamlit** and cloud with **AWS** and **GCP**
+* 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-apprenti-alternant-data-scientist/)
 
 Below are the projects I am the most proud of. (there are many more in [my repositories](https://github.com/cmnemoi?tab=repositories&q=&type=&language=&sort=))
 
@@ -54,7 +54,7 @@ Analysis of SpeeDons 2022 Twitch chat.
 
 Eternaltwin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
 
-I help as an eMush contributor and with DevOps contributions : Docker and [CI pipeline](https://gitlab.com/eternaltwin/dinocard/dinocard/-/merge_requests/4) setups for other games.
+I help as an eMush contributor and with DevOps contributions : [Docker](https://gitlab.com/eternaltwin/kadokadeo/kadokadeo/-/merge_requests/2) and [CI pipeline](https://gitlab.com/eternaltwin/dinocard/dinocard/-/merge_requests/4) setups for other games.
 
 #### [eMush](https://github.com/cmnemoi/eMush/)
 
