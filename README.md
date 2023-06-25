@@ -7,7 +7,7 @@
     * Some experience in **Backend web development (APIs with Flask)**, prototyping web apps with **Streamlit** and cloud with **AWS** and **GCP**
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-python-machine-learning)
 
-Below are the projects I am the most proud of. (there are many more in [my repositories](https://github.com/cmnemoi?tab=repositories&q=&type=&language=&sort=))
+Below are the projects I am the most proud of. (there are many more in [my repositories](https://github.com/cmnemoi?tab=repositories&q=&type=&language=&sort=stargazers))
 
 # Data Science Projects
 
