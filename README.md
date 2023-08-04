@@ -1,6 +1,6 @@
 # Hi !
 
-* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist apprentice** by day and a **Backend developper** for [eMush](https://emush.eternaltwin.org) by night.
+* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist apprentice** (kind of a Co-op here in Europe) by day and a **Backend developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
     * Proficient in **Data Analysis (Pandas, Matplotlib, Plotly)** and **Machine Learning (Scikit-learn, PyCaret)** with **Python**
     * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GitHub Actions)** and **testing (pytest)** 
