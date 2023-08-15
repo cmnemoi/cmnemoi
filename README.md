@@ -1,31 +1,39 @@
 # Hi !
 
-* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist apprentice** (kind of a Co-op here in Europe) by day and a **Backend developper** for [eMush](https://emush.eternaltwin.org) by night.
+* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **Backend developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
     * Proficient in **Data Analysis (Pandas, Matplotlib, Plotly)** and **Machine Learning (Scikit-learn, PyCaret)** with **Python**
     * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GitHub Actions)** and **testing (pytest)** 
     * Some experience in **Backend web development (APIs with Flask)**, prototyping web apps with **Streamlit** and cloud with **AWS** and **GCP**
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
-Below are the projects I am the most proud of. (there are many more in [my repositories](https://github.com/cmnemoi?tab=repositories&q=&type=&language=&sort=stargazers))
+Below are some projects I am the most proud of. (there are many more in [my repositories](https://github.com/cmnemoi?tab=repositories&q=&type=&language=&sort=stargazers))
 
 # Data Science Projects
 
 ## [OWR Predictor](https://github.com/cmmm976/OWREstimator)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bit.ly/TASPredictor)
 
-This is a personal project in which I created a web application to predict the best possible time for a game speedrun.
+This is a personal project in which I created a web application to predict of the minimum duration of a video game session.
 
-Stack : **Python (pandas, sklearn, matplotlib, seaborn, beautiful soup, flask, streamlit)**
+Stack : **Python (pandas, sklearn, matplotlib, seaborn, requests, beautiful soup, flask, streamlit)**
 
-* Created a web app that estimates the best possible time of a speedrun (MAE ~ 388 seconds).
-* Extracted 3800+ game runs from Speedrun.com using its API and Python.
-* Scrapped 2000+ game runs from TASvideos using Beautiful Soup and Python.
-* Engineering features from the time of the world records, number of runners and released year for each game put on Python, Libre Office Calc/Excel and Streamlit.
-* Optimized linear, lasso, ridge, random forest, gradient boost regressor using GridSearchCV to find the best model.
-* Built the web app using Streamlit.
+* Developed a web application that estimates the minimum duration of a match within a 6-minute margin
+* Extracted 6,000+ game sessions' data from APIs and web scraping with `requests` and `BeautifulSoup`
+* Created new variables based on game session time, number of players, and the game's release year
+* Built an API using Flask and the web application using Streamlit
 
-# Data Analysis projects
+## [Predicting NYC Taxi Fare](https://github.com/cmnemoi/NYCTaxiFareLPSID)
+Data Science project of Lille's Bachelor of Economics, which consists of participating in the Kaggle competition [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction).
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cmnemoi-nyc-taxi-fare.streamlit.app/)
+
+* Developed a web application that estimates the price of a ride within a $1.4 range
+* Cleaned and analyzed a dataset with 340,000+ rows to remove outliers and noise from data with normalization
+* Created new variables based on ride duration and destinations
+* Built the web application using Streamlit
+
+# Data Analytics projects
 
 ## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
 
@@ -40,28 +48,35 @@ Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 * Nice looking charts automatically generated from data and user entries
 * Web app with Streamlit
 
-## [SpeeDons Twitch Chat Analysis](https://github.com/cmnemoi/SpeeDonsChatAnalysis)
-
-Analysis of SpeeDons 2022 Twitch chat.
- 
-[Twitter thread with insights (archive)](https://github.com/cmnemoi/cmnemoi/files/9331785/ThreadReader_0_cmnemoi_1518210494095671296.pdf) (reached ~50 retweets)
-
 # Other
 
-## Open source contributions
+## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
 
-### [Eternaltwin](https://gitlab.com/eternaltwin)
+[![PyPI version](https://badge.fury.io/py/cmnemoi-learn.svg)](https://badge.fury.io/py/cmnemoi-learn) 
+
+`cmnemoi-learn` is a reimplementation of machine learning algorithms from scratch (using only `numpy`) with high quality development practices :
+- unit testing with `pytest`
+- code quality checking with `black`, `pylint` and `mypy`
+- CI/CD pipeline with GitHub Actions to version and publish the package automatically to PyPI
+
+## [Eternaltwin](https://gitlab.com/eternaltwin)
 
 Eternaltwin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
 
 I help as an eMush contributor and with DevOps contributions : [Docker](https://gitlab.com/eternaltwin/kadokadeo/kadokadeo/-/merge_requests/2) and [CI pipeline](https://gitlab.com/eternaltwin/dinocard/dinocard/-/merge_requests/4) setups for other games.
 
-#### [eMush](https://github.com/cmnemoi/eMush/)
+### [eMush](https://github.com/cmnemoi/eMush/)
 
 Stack : **PHP 8 (Symfony 6.2, PHPUnit), PostgreSQL, GitLab, Docker, GitLab CI**
 
 eMush is an open-source remake of Mush: the greatest space-opera epic of Humanity, directly on your browser! 
+
 I am a [regular](https://github.com/cmnemoi/eMush/commits?author=cmnemoi) contributor to the project as a backend developer / lead since July 2022.
+
+KPIs : 
+- 300+ users
+- features / bugfixes delivery every 2 weeks
+- contribution to 50 000+ lines of code
 
 Missions :
 - feature development, bugfixes and testing
@@ -69,26 +84,6 @@ Missions :
 - participation in discussions on project direction and features to be developed
 - writing monthly news and patchnotes
 - animating alpha tests
-
-## [Dead Cells Speedashing Discord bot](https://github.com/cmmm976/DC_Speedashing_bot)
-A discord bot for the Dead Cells Speedrunning server.
-
-**Stack : Python 3.6+, Docker, OVH Bare Metal Cloud**
-
-**Features :**
- 
- * Runs 24/7 in a Cloud-hosted container
- * Posts new verified runs in a dedicated channel by interrogating speedrun.com API
- * Posts a runner PB through the !runner command by interrogating speedrun.com API
- * Posts a random copypasta through the !copypasta command
- * Automatically posts streamers currently playing Dead Cells
- * Posts a category world records through !wr commands
- * Posts funny reactions to Dead Cells speedruns through !casul command
-
-**REX :**
- * Learned to use Docker containers and images
- * Re-used speedrun.com API
- * Re-learned to use Linux commands to configure and use the distant VPS for hosting the bot
 
 <!---
 cmmm976/cmmm976 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
