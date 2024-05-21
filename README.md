@@ -1,6 +1,6 @@
 # Hi !
 
-* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **Backend developper** for [eMush](https://emush.eternaltwin.org) by night.
+* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **Lead Developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
     * Proficient in **Data Analysis (Pandas, Matplotlib, Plotly)** and **Machine Learning (Scikit-learn, PyCaret)** with **Python**
     * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GitHub Actions)** and **testing (pytest)** 
@@ -63,24 +63,25 @@ Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 
 Eternaltwin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
 
-I help as an eMush contributor and with DevOps contributions : [Docker](https://gitlab.com/eternaltwin/kadokadeo/kadokadeo/-/merge_requests/2) and [CI pipeline](https://gitlab.com/eternaltwin/dinocard/dinocard/-/merge_requests/4) setups for other games.
+I help as an eMush contributor and with DevOps contributions : [Docker](https://gitlab.com/eternaltwin/kadokadeo/kadokadeo/-/merge_requests/2) and [CI pipelines](https://gitlab.com/eternaltwin/kingdom/kingdom/-/merge_requests/114) setups for other projects.
 
 ### [eMush](https://github.com/cmnemoi/eMush/)
 
-Stack : **PHP 8 (Symfony 6.2, PHPUnit), PostgreSQL, GitLab, Docker, GitLab CI**
+Stack : **PHP 8.3 (Symfony 6.2, PHPUnit, Codeception), Vue.js 3, PostgreSQL, GitLab, Docker, GitLab CI**
 
 eMush is an open-source remake of Mush: the greatest space-opera epic of Humanity, directly on your browser! 
 
-I am a [regular](https://github.com/cmnemoi/eMush/commits?author=cmnemoi) contributor to the project as a backend developer / lead since July 2022.
+I am a Lead developer for the project [since July 2022](https://github.com/cmnemoi/eMush/commits?author=cmnemoi).
 
 KPIs : 
-- 450+ users
+- 900+ users
 - features / bugfixes delivery every 2 weeks
-- contribution to 50 000+ lines of code
+- contribution to 80 000+ lines of code
 
 Missions :
 - feature development, bugfixes and testing
 - enhancement of CI pipelines
+- implementing good practices (TDD, BDD, Clean Architecture)
 - participation in discussions on project direction and features to be developed
 - writing monthly news and patchnotes
 - animating alpha tests
