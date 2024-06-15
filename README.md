@@ -74,7 +74,7 @@ eMush is an open-source remake of Mush: the greatest space-opera epic of Humanit
 I am a Lead developer for the project [since July 2022](https://github.com/cmnemoi/eMush/commits?author=cmnemoi).
 
 KPIs : 
-- ~1000 users
+- 1100+ users
 - features / bugfixes delivery every 2 weeks
 - contribution to 80 000+ lines of code
 
