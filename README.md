@@ -59,6 +59,19 @@ Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 - code quality checking with `black`, `pylint` and `mypy`
 - CI/CD pipeline with GitHub Actions to version and publish the package automatically to PyPI
 
+## [cmnemoiscript](https://github.com/cmnemoi/cmnemoiscript)
+
+[![CI Status](https://github.com/cmnemoi/cmnemoiscript/actions/workflows/continous_integration.yml/badge.svg?branch=main)](https://github.com/cmnemoi/cmnemoiscript/actions/workflows/continous_integration.yml)
+[![Coverage Status](https://codecov.io/github/cmnemoi/cmnemoiscript/branch/main/graph/badge.svg?token=0JOWFJPFJ3)](https://codecov.io/github/cmnemoi/cmnemoiscript) 
+
+An experimental programming language inspired by Typescript, Python and Rust.
+
+🚧 Lexer
+🚧 Parser
+🚧 AST
+🚧 Variables
+🚧 Functions
+
 ## [Eternaltwin](https://gitlab.com/eternaltwin)
 
 Eternaltwin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
