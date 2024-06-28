@@ -66,11 +66,11 @@ Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 
 An experimental programming language inspired by Typescript, Python and Rust.
 
-🚧 Lexer
-🚧 Parser
-🚧 AST
-🚧 Variables
-🚧 Functions
+- 🚧 Lexer
+- 🚧 Parser
+- 🚧 AST
+- 🚧 Variables
+- 🚧 Functions
 
 ## [Eternaltwin](https://gitlab.com/eternaltwin)
 
