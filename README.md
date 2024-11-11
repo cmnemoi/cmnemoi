@@ -49,9 +49,7 @@ I've done the projects below when I was starting in Data Science and software en
 
 ## [OWR Predictor](https://github.com/cmmm976/OWREstimator)
 
-[![Continous Integration](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml)
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://owrestimator.streamlit.app/)
+[![Continous Integration](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://owrestimator.streamlit.app/)
 
 A web application to predict of the minimum duration of a video game session with Machine Learning.
 
@@ -64,11 +62,10 @@ Stack : **Python (pandas, sklearn, matplotlib, seaborn, requests, beautiful soup
 
 ## [Predicting NYC Taxi Fare](https://github.com/cmnemoi/NYCTaxiFareLPSID)
 
-[![Continous Integration](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml)
+[![Continous Integration](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml) 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cmnemoi-nyc-taxi-fare.streamlit.app/)
 
 Data Science project of Lille's Bachelor of Economics, which consists of participating in the Kaggle competition [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction).
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cmnemoi-nyc-taxi-fare.streamlit.app/)
 
 * Developed a web application that estimates the price of a ride within a $1.4 range
 * Cleaned and analyzed a dataset with 340,000+ rows to remove outliers and noise from data with normalization
@@ -78,9 +75,7 @@ Data Science project of Lille's Bachelor of Economics, which consists of partici
 
 ## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
 
-[![Continous Integration](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml)
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://bit.ly/LyricsExplorer](https://lyrics-explorer.streamlit.app/))
+[![Continous Integration](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://bit.ly/LyricsExplorer](https://lyrics-explorer.streamlit.app/))
 
 A web app allowing you to compare French Hip-Hop lyrics.
 
