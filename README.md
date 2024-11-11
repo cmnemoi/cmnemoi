@@ -71,6 +71,8 @@ Data Science project of Lille's Bachelor of Economics, which consists of partici
 
 ## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
 
+[![Continous Integration](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml)
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://bit.ly/LyricsExplorer](https://lyrics-explorer.streamlit.app/))
 
 A web app allowing you to compare French Hip-Hop lyrics.
