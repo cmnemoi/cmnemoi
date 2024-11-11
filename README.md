@@ -11,7 +11,10 @@ Below are some projects I've been working on.
 
 ## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
 
-[![PyPI version](https://badge.fury.io/py/cmnemoi-learn.svg)](https://badge.fury.io/py/cmnemoi-learn) 
+[![CI Status](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/continous_integration.yaml/badge.svg?branch=main)](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/continous_integration.yaml)
+[![CD Status](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/create_github_release.yaml/badge.svg?branch=main)](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/create_github_release.yaml)
+[![Coverage Status](https://coveralls.io/repos/github/cmnemoi/cmnemoi-learn/badge.svg?branch=main)](https://coveralls.io/github/cmnemoi/cmnemoi-learn?branch=main) 
+[![PyPI version](https://badge.fury.io/py/cmnemoi-learn.svg)](https://badge.fury.io/py/cmnemoi-learn)
 
 `cmnemoi-learn` is a Python package which reimplements machine learning algorithms from scratch (using only `numpy`) with high quality development practices :
 - unit testing with `pytest`
@@ -64,7 +67,7 @@ Data Science project of Lille's Bachelor of Economics, which consists of partici
 
 ## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bit.ly/LyricsExplorer)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://bit.ly/LyricsExplorer](https://lyrics-explorer.streamlit.app/))
 
 A web app allowing you to compare French Hip-Hop lyrics.
 
