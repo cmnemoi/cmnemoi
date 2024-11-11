@@ -60,6 +60,9 @@ Stack : **Python (pandas, sklearn, matplotlib, seaborn, requests, beautiful soup
 * Built an API using Flask and the web application using Streamlit
 
 ## [Predicting NYC Taxi Fare](https://github.com/cmnemoi/NYCTaxiFareLPSID)
+
+[![Continous Integration](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml)
+
 Data Science project of Lille's Bachelor of Economics, which consists of participating in the Kaggle competition [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction).
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cmnemoi-nyc-taxi-fare.streamlit.app/)
@@ -68,6 +71,7 @@ Data Science project of Lille's Bachelor of Economics, which consists of partici
 * Cleaned and analyzed a dataset with 340,000+ rows to remove outliers and noise from data with normalization
 * Created new variables based on ride duration and destinations
 * Built the web application using Streamlit
+* Quality "CI" pipeline with git hooks and Github Actions (lint with Ruff, test with Pytest)
 
 ## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
 
@@ -83,7 +87,7 @@ Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 * MySQL database hosted on a AWS RDS DB instance
 * Nice looking charts automatically generated from data and user entries
 * Web app with Streamlit
-* Quality "CI" pipeline with Github Actions (lint with Ruff, test with Pytest)
+* Quality "CI" pipeline with git hooks and Github Actions (lint with Ruff, test with Pytest)
 
 
 <!---
