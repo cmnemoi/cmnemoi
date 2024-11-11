@@ -41,7 +41,7 @@ Missions :
 I've done the projects below when I was starting in Data Science and software engineering, they deserve a reboot now...
 
 ## [OWR Predictor](https://github.com/cmmm976/OWREstimator)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bit.ly/TASPredictor)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://owrestimator.streamlit.app/)
 
 A web application to predict of the minimum duration of a video game session with Machine Learning.
 
