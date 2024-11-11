@@ -2,12 +2,12 @@
 
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **full-stack developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
-    * Proficient in **Data Analysis (Pandas, Matplotlib, Plotly)** and **Machine Learning (Scikit-learn, PyCaret)** with **Python**
-    * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GitHub Actions)** and **testing (pytest)** 
-    * Some experience in **Backend web development (APIs with Flask and FastAPI)**, prototyping web apps with **Streamlit** and cloud with **AWS** and **GCP**
+   * proficient in data analysis (Pandas, Matplotlib, Seaborn, Plotly) and machine learning (Scikit-learn, PyTorch) with Python and SQL ;
+   * familiar with DevOps/MLOps (Docker, GitHub Actions, GitLab CI, unit testing with pytest), API development (FastAPI, Flask), GCP cloud (Big Query, Cloud Run, Vertex AI) and agile development methods (Scrum, Kanban) ;
+   * acculturated to Gen AI with Langchain and vector databases (Weaviate) ;
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
-Below are some projects I've been working on.
+Below are some projects I've worked on.
 
 ## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
 
