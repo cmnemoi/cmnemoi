@@ -83,6 +83,7 @@ Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 * MySQL database hosted on a AWS RDS DB instance
 * Nice looking charts automatically generated from data and user entries
 * Web app with Streamlit
+* Quality "CI" pipeline with Github Actions (lint with Ruff, test with Pytest)
 
 
 <!---
