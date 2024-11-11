@@ -22,7 +22,7 @@ Below are some projects I've been working on.
 
 Stack : **PHP 8.3 (Symfony 6.4, PHPUnit, Codeception), Vue.js 3, PostgreSQL, GitLab, Docker, GitLab CI**
 
-[eMush}(https://emush.eternaltwin.org/) is an open source remake of Mush: the greatest space opera epic of Humanity, directly on your browser! 
+[eMush](https://emush.eternaltwin.org/) is an open source remake of Mush: the greatest space opera epic of Humanity, directly on your browser! 
 
 I am a full-stack developer for the project [since July 2022](https://github.com/cmnemoi/eMush/commits?author=cmnemoi).
 
