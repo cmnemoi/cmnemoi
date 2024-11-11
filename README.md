@@ -1,20 +1,49 @@
 # Hi !
 
-* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **Lead Developper** for [eMush](https://emush.eternaltwin.org) by night.
+* 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **full-stack developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
     * Proficient in **Data Analysis (Pandas, Matplotlib, Plotly)** and **Machine Learning (Scikit-learn, PyCaret)** with **Python**
     * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GitHub Actions)** and **testing (pytest)** 
     * Some experience in **Backend web development (APIs with Flask and FastAPI)**, prototyping web apps with **Streamlit** and cloud with **AWS** and **GCP**
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
-Below are some projects I've worked on.
+Below are some projects I've been working on.
 
-# Data Science Projects
+## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
+
+[![PyPI version](https://badge.fury.io/py/cmnemoi-learn.svg)](https://badge.fury.io/py/cmnemoi-learn) 
+
+`cmnemoi-learn` is a Python package which reimplements machine learning algorithms from scratch (using only `numpy`) with high quality development practices :
+- unit testing with `pytest`
+- code quality checking with `black`, `pylint` and `mypy`
+- CI/CD pipeline with GitHub Actions to version and publish the package automatically to PyPI
+
+## [eMush](https://github.com/cmnemoi/eMush/)
+
+Stack : **PHP 8.3 (Symfony 6.4, PHPUnit, Codeception), Vue.js 3, PostgreSQL, GitLab, Docker, GitLab CI**
+
+[eMush}(https://emush.eternaltwin.org/) is an open source remake of Mush: the greatest space opera epic of Humanity, directly on your browser! 
+
+I am a full-stack developer for the project [since July 2022](https://github.com/cmnemoi/eMush/commits?author=cmnemoi).
+
+KPIs : 
+- 1500+ users (100+ daily)
+- contribution to 100 000+ lines of code
+
+Missions :
+- feature development, bugfixes and testing
+- enhancement of CI pipelines
+- implementing good practices (TDD, BDD, Clean Architecture)
+- participation in discussions on project direction and features to be developed
+- writing monthly news and patchnotes
+- animating alpha tests
+
+I've done the projects below when I was starting in Data Science and software engineering, they deserve a reboot now...
 
 ## [OWR Predictor](https://github.com/cmmm976/OWREstimator)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bit.ly/TASPredictor)
 
-This is a personal project in which I created a web application to predict of the minimum duration of a video game session.
+A web application to predict of the minimum duration of a video game session with Machine Learning.
 
 Stack : **Python (pandas, sklearn, matplotlib, seaborn, requests, beautiful soup, flask, streamlit)**
 
@@ -33,8 +62,6 @@ Data Science project of Lille's Bachelor of Economics, which consists of partici
 * Created new variables based on ride duration and destinations
 * Built the web application using Streamlit
 
-# Data Analytics projects
-
 ## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bit.ly/LyricsExplorer)
@@ -48,42 +75,6 @@ Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchem
 * Nice looking charts automatically generated from data and user entries
 * Web app with Streamlit
 
-# Other
-
-## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
-
-[![PyPI version](https://badge.fury.io/py/cmnemoi-learn.svg)](https://badge.fury.io/py/cmnemoi-learn) 
-
-`cmnemoi-learn` is a reimplementation of machine learning algorithms from scratch (using only `numpy`) with high quality development practices :
-- unit testing with `pytest`
-- code quality checking with `black`, `pylint` and `mypy`
-- CI/CD pipeline with GitHub Actions to version and publish the package automatically to PyPI
-
-## [Eternaltwin](https://gitlab.com/eternaltwin)
-
-Eternaltwin is an open-source project created to preserve and recreate Motion Twin games, a 20-year old indie video game studio which released 25+ Web/Flash-based games.
-
-I help as an eMush contributor and with DevOps contributions : [Docker](https://gitlab.com/eternaltwin/kadokadeo/kadokadeo/-/merge_requests/2) and [CI pipelines](https://gitlab.com/eternaltwin/kingdom/kingdom/-/merge_requests/114) setups for other projects.
-
-### [eMush](https://github.com/cmnemoi/eMush/)
-
-Stack : **PHP 8.3 (Symfony 6.2, PHPUnit, Codeception), Vue.js 3, PostgreSQL, GitLab, Docker, GitLab CI**
-
-eMush is an open-source remake of Mush: the greatest space-opera epic of Humanity, directly on your browser! 
-
-I am a Lead developer for the project [since July 2022](https://github.com/cmnemoi/eMush/commits?author=cmnemoi).
-
-KPIs : 
-- 1500+ users (100+ daily)
-- contribution to 80 000+ lines of code
-
-Missions :
-- feature development, bugfixes and testing
-- enhancement of CI pipelines
-- implementing good practices (TDD, BDD, Clean Architecture)
-- participation in discussions on project direction and features to be developed
-- writing monthly news and patchnotes
-- animating alpha tests
 
 <!---
 cmmm976/cmmm976 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
