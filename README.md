@@ -4,10 +4,10 @@
 * 🛠️ Skills 
     * Proficient in **Data Analysis (Pandas, Matplotlib, Plotly)** and **Machine Learning (Scikit-learn, PyCaret)** with **Python**
     * Familiar in **Web Scrapping (requests, BeautifulSoup)** with **Python**, **DevOps (Docker, GitLab CI, GitHub Actions)** and **testing (pytest)** 
-    * Some experience in **Backend web development (APIs with Flask)**, prototyping web apps with **Streamlit** and cloud with **AWS** and **GCP**
+    * Some experience in **Backend web development (APIs with Flask and FastAPI)**, prototyping web apps with **Streamlit** and cloud with **AWS** and **GCP**
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
-Below are some projects I am the most proud of. (there are many more in [my repositories](https://github.com/cmnemoi?tab=repositories&q=&type=&language=&sort=stargazers))
+Below are some projects I've worked on.
 
 # Data Science Projects
 
