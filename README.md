@@ -3,11 +3,23 @@
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **full-stack developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
    * proficient in **data analysis** (Pandas, Matplotlib, Seaborn, Plotly) and **machine learning** (Scikit-learn, PyTorch) with **Python** and **SQL** ;
-   * familiar with **DevOps/MLOps** (Docker, GitHub Actions, GitLab CI, unit testing with pytest), **API development** (FastAPI, Flask), **GCP cloud** (Big Query, Cloud Run, Vertex AI) and **agile development methods** (Scrum, Kanban) ;
-   * acculturated to **Gen AI** with Langchain and **vector databases** (Weaviate) ;
+   * familiar with **DevOps/MLOps** (Docker, GitHub Actions, GitLab CI, unit testing with pytest), **API development** (FastAPI), **GCP cloud** (Big Query, Cloud Run, Vertex AI) and **agile development methods** (Scrum, Kanban) ;
+   * acculturated to **Retrieval-Augmented Generation (RAG)** with 
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
 Below are some projects I've worked on.
+
+## Ask NERON
+
+A chatbot [web application](https://askneron.netlify.app/) which can answer question about [eMush](https://emush.eternaltwin.org/) with 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49ec8f74-e14b-4a9d-ac0e-a3947e403301/deploy-status)](https://app.netlify.com/sites/askneron/deploys)
+[![API Continuous Integration](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml)
+[![API Continuous Delivery](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml)
+[![API Code coverage](https://codecov.io/gh/cmnemoi/emush_rag/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/emush_rag)
+
+- [API repository](https://github.com/cmnemoi/emush_rag/)
+- [Web app repository](https://github.com/cmnemoi/ask_neron_front)
 
 ## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
 
@@ -47,19 +59,6 @@ Missions :
 
 I've done the projects below when I was starting in Data Science and software engineering, they deserve a reboot now...
 
-## [OWR Predictor](https://github.com/cmmm976/OWREstimator)
-
-[![Continous Integration](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/OWREstimator/actions/workflows/ci.yaml) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://owrestimator.streamlit.app/)
-
-A web application to predict of the minimum duration of a video game session with Machine Learning.
-
-Stack : **Python (pandas, sklearn, matplotlib, seaborn, requests, beautiful soup, flask, streamlit)**
-
-* Developed a web application that estimates the minimum duration of a match within a 6-minute margin
-* Extracted 6,000+ game sessions' data from APIs and web scraping with `requests` and `BeautifulSoup`
-* Created new variables based on game session time, number of players, and the game's release year
-* Built an API using Flask and the web application using Streamlit
-
 ## [Predicting NYC Taxi Fare](https://github.com/cmnemoi/NYCTaxiFareLPSID)
 
 [![Continous Integration](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml) 
@@ -72,21 +71,6 @@ Data Science project of Lille's Bachelor of Economics, which consists of partici
 * Created new variables based on ride duration and destinations
 * Built the web application using Streamlit
 * Quality "CI" pipeline with git hooks and Github Actions (lint with Ruff, test with Pytest)
-
-## [Lyrics Explorer](https://github.com/cmmm976/LyricsExplorator)
-
-[![Continous Integration](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/LyricsExplorer/actions/workflows/ci.yaml) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lyrics-explorer.streamlit.app/)
-
-A web app allowing you to compare French Hip-Hop lyrics.
-
-Stack : **Python (Streamlit, Pandas, Plotly, Matplotlib, LyricsGenius, SQLAlchemy), MySQL, AWS RDS**
-
-* 21723 songs collected through LyricsGenius API
-* MySQL database hosted on a AWS RDS DB instance
-* Nice looking charts automatically generated from data and user entries
-* Web app with Streamlit
-* Quality "CI" pipeline with git hooks and Github Actions (lint with Ruff, test with Pytest)
-
 
 <!---
 cmmm976/cmmm976 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
