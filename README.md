@@ -3,23 +3,23 @@
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **full-stack developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
    * proficient in **data analysis** (Pandas, Matplotlib, Seaborn, Plotly) and **machine learning** (Scikit-learn, PyTorch) with **Python** and **SQL** ;
-   * familiar with **DevOps/MLOps** (Docker, GitHub Actions, GitLab CI, unit testing with pytest), **API development** (FastAPI), **GCP cloud** (Big Query, Cloud Run, Vertex AI) and **agile development methods** (Scrum, Kanban) ;
-   * acculturated to **Retrieval-Augmented Generation (RAG)**
+   * familiar with **DevOps/MLOps** (Docker, CI/CD with GitHub Actions, GitLab CI and Docker Swarm, unit testing with pytest), **API development** (FastAPI), **GCP cloud** (Big Query, Cloud Run, Vertex AI) and **agile development methods** (Scrum, Kanban) ;
+   * acculturated to **Large Language Models (LLM)** and **Retrieval-Augmented Generation (RAG)**.
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
 Below are some projects I've worked on.
 
 ## Ask NERON
 
-A chatbot [web application](https://askneron.netlify.app/) which can answer question about [eMush](https://emush.eternaltwin.org/) with **Retrieval-Augmented Generation (RAG)** from a Chroma vector database.
+A chatbot [web application](https://askneron.netlify.app/) which can answer question about [eMush](https://emush.eternaltwin.org/) with **Retrieval-Augmented Generation (RAG)** from curated documents.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/49ec8f74-e14b-4a9d-ac0e-a3947e403301/deploy-status)](https://app.netlify.com/sites/askneron/deploys)
 [![API Continuous Integration](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml)
 [![API Continuous Delivery](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml)
 [![API Code coverage](https://codecov.io/gh/cmnemoi/emush_rag/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/emush_rag)
 
-- [API repository](https://github.com/cmnemoi/emush_rag/)
-- [Web app repository](https://github.com/cmnemoi/ask_neron_front)
+- [Ask NERON API](https://github.com/cmnemoi/emush_rag/)
+- [Ask NERON web app](https://github.com/cmnemoi/ask_neron_front)
 
 ## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
 
