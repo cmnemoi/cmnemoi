@@ -3,35 +3,39 @@
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **full-stack developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
    * proficient in **data analysis** (Pandas, Matplotlib, Seaborn, Plotly), **machine learning** (Scikit-learn, PyTorch) with **Python** and **SQL** and **API development** (FastAPI) ;
-   * familiar with **DevOps/MLOps** (Docker, CI/CD with GitHub Actions, GitLab CI, unit testing with pytest), **GCP cloud** (Big Query, Cloud Run, Vertex AI), **Gen AI** (Langchain, Haystack), vector databases (Chroma, Weaviate, PgVector) and **agile development methods** (Scrum, Kanban) ;
+   * familiar with **DevOps/MLOps** (Docker, CI/CD with GitHub Actions, GitLab CI, unit testing with pytest), **GCP cloud** (Big Query, Cloud Run, Vertex AI), **Gen AI** (Langchain, Haystack), vector databases (Chroma, Weaviate, PgVector), **Front-end development** (Vue.js, React.js) and **agile development methods** (Scrum, Kanban) ;
    * familiar with **Infrastructure as Code** with **Terraform**.
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
 Below are some projects I've worked on.
 
-## Ask NERON
-
-A chatbot [web application](https://askneron.netlify.app/) which can answer question about [eMush](https://emush.eternaltwin.org/) with **Retrieval-Augmented Generation (RAG)** from curated documents.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/49ec8f74-e14b-4a9d-ac0e-a3947e403301/deploy-status)](https://app.netlify.com/sites/askneron/deploys)
-[![API Continuous Integration](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml)
-[![API Continuous Delivery](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml)
-[![API Code coverage](https://codecov.io/gh/cmnemoi/emush_rag/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/emush_rag)
-
-- [Ask NERON API](https://github.com/cmnemoi/emush_rag/)
-- [Ask NERON web app](https://github.com/cmnemoi/ask_neron_front)
-
 ## SightCall Q&A
-
-A [web application](https://sightcall-qa.netlify.app/) for interacting with a RAG-based chatbot that answers questions about SightCall from their [website](https://sightcall.com/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/19d09da9-f02f-453f-ba24-9b07f2f4eaae/deploy-status)](https://sightcall-qa.netlify.app/)
 [![API Continuous Integration](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml)
 [![API Continuous Delivery](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_delivery.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_delivery.yaml)
 [![API test coverage](https://codecov.io/gh/cmnemoi/sightcall_qa_api/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/sightcall_qa_api)
 
+Stack : **Python (FastAPI, pytest), TypeScript (React.js), Haystack, PostgresSQL, Docker, Terraform, Github Actions**
+
+A [web application](https://sightcall-qa.netlify.app/) for interacting with a RAG-based chatbot that answers questions about SightCall from their [website](https://sightcall.com/).
+
 - [API](https://github.com/cmnemoi/sightcall_qa_api)
 - [Web app](https://github.com/cmnemoi/sightcall-qa-app/)
+
+## Ask NERON
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49ec8f74-e14b-4a9d-ac0e-a3947e403301/deploy-status)](https://app.netlify.com/sites/askneron/deploys)
+[![API Continuous Integration](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml)
+[![API Continuous Delivery](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml)
+[![API Code coverage](https://codecov.io/gh/cmnemoi/emush_rag/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/emush_rag)
+
+Stack : **Python (FastAPI, pytest), TypeScript (Vue.js), Chroma DB, Docker**
+
+A chatbot [web application](https://askneron.netlify.app/) which can answer question about [eMush](https://emush.eternaltwin.org/) with **Retrieval-Augmented Generation (RAG)** from curated documents.
+
+- [Ask NERON API](https://github.com/cmnemoi/emush_rag/)
+- [Ask NERON web app](https://github.com/cmnemoi/ask_neron_front)
 
 ## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
 
@@ -72,6 +76,8 @@ Missions :
 I've done the projects below when I was starting in Data Science and software engineering, they deserve a reboot now...
 
 ## [Predicting NYC Taxi Fare](https://github.com/cmnemoi/NYCTaxiFareLPSID)
+
+Stack : **Python (Pandas, Seaborn, Streamlit, scikit-learn, pytest)**, **GCP**, **GitHub Actions**
 
 [![Continous Integration](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml/badge.svg)](https://github.com/cmnemoi/NYCTaxiFareLPSID/actions/workflows/ci.yaml) 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cmnemoi-nyc-taxi-fare.streamlit.app/)
