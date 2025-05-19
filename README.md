@@ -73,6 +73,14 @@ Missions :
 - writing monthly news and patchnotes
 - animating alpha tests
 
+## OSS contributions
+
+- [LiveSplit autosplitters](https://github.com/LiveSplit/LiveSplit.AutoSplitters/commits?author=cmnemoi) (https://github.com/cmnemoi/NuclearBlazeAutoSplitter)
+- [refactoring.guru](https://github.com/RefactoringGuru/refactoring-examples/commits?author=cmnemoi)
+- [srcomapi](https://github.com/blha303/srcomapi/commits?author=cmnemoi)
+- [visions](https://github.com/dylan-profiler/visions/commits?author=cmnemoi)
+- [V tensor library](https://github.com/vlang/vtl/commits?author=cmnemoi)
+
 I've done the projects below when I was starting in Data Science and software engineering, they deserve a reboot now...
 
 ## [Predicting NYC Taxi Fare](https://github.com/cmnemoi/NYCTaxiFareLPSID)
@@ -90,6 +98,7 @@ Data Science project of Lille's Bachelor of Economics, which consists of partici
 * Built the web application using Streamlit
 * Quality "CI" pipeline with git hooks and Github Actions (lint with Ruff, test with Pytest)
 
+  
 <!---
 cmmm976/cmmm976 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
