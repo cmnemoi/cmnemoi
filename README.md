@@ -2,9 +2,9 @@
 
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **full-stack developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
-   * proficient in **data analysis** (Pandas, Matplotlib, Seaborn, Plotly) and **machine learning** (Scikit-learn, PyTorch) with **Python** and **SQL** ;
-   * familiar with **DevOps/MLOps** (Docker, CI/CD with GitHub Actions, GitLab CI and Docker Swarm, unit testing with pytest), **API development** (FastAPI), **GCP cloud** (Big Query, Cloud Run, Vertex AI) and **agile development methods** (Scrum, Kanban) ;
-   * acculturated to **Large Language Models (LLM)** and **Retrieval-Augmented Generation (RAG)**.
+   * proficient in **data analysis** (Pandas, Matplotlib, Seaborn, Plotly), **machine learning** (Scikit-learn, PyTorch) with **Python** and **SQL** and **API development** (FastAPI) ;
+   * familiar with **DevOps/MLOps** (Docker, CI/CD with GitHub Actions, GitLab CI, unit testing with pytest), , **GCP cloud** (Big Query, Cloud Run, Vertex AI), **Gen AI** (Langchain, Haystack), vector databases (Chroma, Weaviate, PgVector) and **agile development methods** (Scrum, Kanban) ;
+   * familiar with **Infrastructure as Code** with **Terraform**.
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
 Below are some projects I've worked on.
@@ -20,6 +20,18 @@ A chatbot [web application](https://askneron.netlify.app/) which can answer ques
 
 - [Ask NERON API](https://github.com/cmnemoi/emush_rag/)
 - [Ask NERON web app](https://github.com/cmnemoi/ask_neron_front)
+
+## SightCall Q&A
+
+A [web application](https://sightcall-qa.netlify.app/) for interacting with a RAG-based chatbot that answers questions about SightCall from their [website](https://sightcall.com/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19d09da9-f02f-453f-ba24-9b07f2f4eaae/deploy-status)](https://sightcall-qa.netlify.app/)
+[![API Continuous Integration](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml)
+[![API Continuous Delivery](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_delivery.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_delivery.yaml)
+[![API test coverage](https://codecov.io/gh/cmnemoi/sightcall_qa_api/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/sightcall_qa_api)
+
+- [API](https://github.com/cmnemoi/sightcall_qa_api)
+- [Web app](https://github.com/cmnemoi/sightcall-qa-app/)
 
 ## [cmnemoi-learn](https://github.com/cmnemoi/cmnemoi-learn)
 
@@ -46,7 +58,7 @@ Stack : **PHP 8.3 (Symfony 6.4, PHPUnit, Codeception), Vue.js 3, PostgreSQL, Git
 I am a full-stack developer for the project [since July 2022](https://github.com/cmnemoi/eMush/commits?author=cmnemoi).
 
 KPIs : 
-- 1500+ users (100+ daily)
+- 2000+ users (150+ daily)
 - contribution to 100 000+ lines of code
 
 Missions :
