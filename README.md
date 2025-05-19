@@ -3,7 +3,7 @@
 * 👋 I’m **Charles-Meldhine Madi Mnemoi**. I am a **Data Scientist** in Co-op by day and a **full-stack developper** for [eMush](https://emush.eternaltwin.org) by night.
 * 🛠️ Skills 
    * proficient in **data analysis** (Pandas, Matplotlib, Seaborn, Plotly), **machine learning** (Scikit-learn, PyTorch) with **Python** and **SQL** and **API development** (FastAPI) ;
-   * familiar with **DevOps/MLOps** (Docker, CI/CD with GitHub Actions, GitLab CI, unit testing with pytest), , **GCP cloud** (Big Query, Cloud Run, Vertex AI), **Gen AI** (Langchain, Haystack), vector databases (Chroma, Weaviate, PgVector) and **agile development methods** (Scrum, Kanban) ;
+   * familiar with **DevOps/MLOps** (Docker, CI/CD with GitHub Actions, GitLab CI, unit testing with pytest), **GCP cloud** (Big Query, Cloud Run, Vertex AI), **Gen AI** (Langchain, Haystack), vector databases (Chroma, Weaviate, PgVector) and **agile development methods** (Scrum, Kanban) ;
    * familiar with **Infrastructure as Code** with **Terraform**.
 * 📫 Reach me by [mail](mailto:charlesmeldhine.madimnemoi@gmail.com) or [Linkedin](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
 
