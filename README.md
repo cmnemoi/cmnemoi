@@ -30,7 +30,7 @@ A [web application](https://sightcall-qa.netlify.app/) for interacting with a RA
 [![API Continuous Delivery](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml)
 [![API Code coverage](https://codecov.io/gh/cmnemoi/emush_rag/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/emush_rag)
 
-Stack : **Python (FastAPI, pytest), TypeScript (Vue.js), Chroma DB, Docker**
+Stack : **Python (FastAPI, pytest), TypeScript (Vue.js), Chroma DB, Docker, Grafana**
 
 A chatbot [web application](https://askneron.netlify.app/) which can answer question about [eMush](https://emush.eternaltwin.org/) with **Retrieval-Augmented Generation (RAG)** from curated documents.
 
