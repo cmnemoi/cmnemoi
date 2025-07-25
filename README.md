@@ -48,7 +48,7 @@ Stack: **Python (FastAPI, pytest), React.js, Haystack, PostgreSQL, Docker, Terra
 
 [Live app](https://askneron.netlify.app) · [API repo](https://github.com/cmnemoi/emush_rag) · [Frontend repo](https://github.com/cmnemoi/ask_neron_front)
 
-Stack: **FastAPI, Vue.js, Chroma DB, Docker, Grafana**
+Stack: **Python (FastAPI), TypeScript (Vue.js), Chroma DB, Docker, GitHub Actions, OpenTelemetry, Grafana**
 
 > Developed a full RAG pipeline for a chatbot that answers questions from documentation, integrated monitoring and metrics. CI/CD pipelines, tests and coverage included.
 
