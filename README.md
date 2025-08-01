@@ -11,7 +11,7 @@ I'm a **Freelance Python Developer** with 4 years of experience, mainly in the *
 - **Generative AI**: RAG pipelines, Langchain, Haystack, vector DBs (Chroma, Weaviate, PgVector)
 - **Frontend**: Vue.js, React
 - **Soft skills**: agile methods (Scrum, Kanban), technical documentation, product mindset
-- **Language**: English fluent (TOEIC 955, 3-month professional experience abroad)
+- **Language**: English fluent (TOEIC 955)
 
 ---
 
