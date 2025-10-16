@@ -87,8 +87,9 @@ Stack: **PHP (Symfony), Vue.js, PostgreSQL, Docker, GitLab CI**
 
 ## 🧪 OSS Contributions
 
-- [LiveSplit autosplitters](https://github.com/LiveSplit/LiveSplit.AutoSplitters/commits?author=cmnemoi)
+- [hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi)
+- [vtl (V tensor lib)](https://github.com/vlang/vtl/commits?author=cmnemoi)
+- [visions](https://github.com/dylan-profiler/visions/commits?author=cmnemoi)
 - [Refactoring Guru examples](https://github.com/RefactoringGuru/refactoring-examples/commits?author=cmnemoi)
 - [srcomapi](https://github.com/blha303/srcomapi/commits?author=cmnemoi)
-- [visions](https://github.com/dylan-profiler/visions/commits?author=cmnemoi)
-- [vtl (V tensor lib)](https://github.com/vlang/vtl/commits?author=cmnemoi)
+- [LiveSplit autosplitters](https://github.com/LiveSplit/LiveSplit.AutoSplitters/commits?author=cmnemoi)
