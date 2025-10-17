@@ -88,6 +88,7 @@ Stack: **PHP (Symfony), Vue.js, PostgreSQL, Docker, GitLab CI**
 ## 🧪 OSS Contributions
 
 - [hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi)
+- [haystack integrations](https://github.com/deepset-ai/haystack-core-integrations/commits?author=cmnemoi)
 - [vtl (V tensor lib)](https://github.com/vlang/vtl/commits?author=cmnemoi)
 - [visions](https://github.com/dylan-profiler/visions/commits?author=cmnemoi)
 - [Refactoring Guru examples](https://github.com/RefactoringGuru/refactoring-examples/commits?author=cmnemoi)
