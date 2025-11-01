@@ -88,6 +88,7 @@ Stack: **PHP (Symfony), Vue.js, PostgreSQL, Docker, GitLab CI**
 ## 🧪 OSS Contributions
 
 - [uv](https://github.com/astral-sh/uv/commits?author=cmnemoi)
+- [pytest](https://github.com/pytest-dev/pytest/commits?author=cmnemoi)
 - [haystack](https://github.com/deepset-ai/haystack/commits?author=cmnemoi)
 - [haystack integrations](https://github.com/deepset-ai/haystack-core-integrations/commits?author=cmnemoi)
 - [hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi)
