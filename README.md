@@ -2,7 +2,7 @@
 
 I'm a **Freelance Python Developer** with 4 years of experience, mainly in the **pharma industry** and **public administration**, in **Île-de-France / Hauts-de-France**.
 
-Alongside my contracts, I'm also an open source maintainer and contributor.
+Alongside my contracts, I'm also an open source maintainer and contributor in Python ecosystem and more.
 
 ## 🧰 Expertise
 
