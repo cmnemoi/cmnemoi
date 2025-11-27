@@ -66,11 +66,11 @@ Stack: **Python (FastAPI), TypeScript (Vue.js), Chroma DB, Docker, GitHub Action
 
 Stack: **PHP (Symfony), Vue.js, PostgreSQL, Docker, GitLab CI**
 
-> Contributed since July 2022:
-- 150k+ LoC, 2.5k+ users
+> Maintainer since July 2022:
+- 200k+ LoC, 2.5k+ users
 - Clean Architecture, CI pipelines, TDD, BDD
 - 20+ contributors mentored
-- Beta testing, feature planning, patchnotes writing
+- Beta testing, feature planning, patchnotes writing, conflict management
 
 ---
 
