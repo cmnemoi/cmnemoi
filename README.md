@@ -1,6 +1,6 @@
 # Hi, I'm Charles-Meldhine 👋
 
-I'm a **Freelance Python Developer** with 4 years of experience, mainly in the **pharma industry** and **public administration**, in **Île-de-France / Hauts-de-France**.
+I'm a **Freelance ML / Software Engineer** with 4 years of experience, mainly in the **pharma industry** and **public administration**.
 
 Alongside my contracts, I'm also an open source maintainer and contributor in Python ecosystem and more.
 
