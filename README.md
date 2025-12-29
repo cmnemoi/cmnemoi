@@ -1,6 +1,6 @@
 # Hi, I'm Charles-Meldhine 👋
 
-I'm a **AI Software Engineer** freelancer with 4 years of experience, mainly in the **pharma industry** and **public administration**.
+I'm an **AI Software Engineer** freelancer with 4 years of experience, mainly in the **pharma industry** and **public administration**.
 
 Alongside my contracts, I'm also an open source maintainer and contributor in Python ecosystem and more.
 
