@@ -68,7 +68,7 @@ Stack: **PHP (Symfony), Vue.js, PostgreSQL, Docker, GitLab CI**
 
 > Maintainer between July 2022 and December 2025 (3 years 1/2)
 - Rebuilt and maintained a complex legacy system with no complete original source code
-- Ensured long-term stability, scalability and community adoption (2.5k+ users)
+- Ensured long-term stability, scalability and community adoption (20 -> 2.5k+ users)
 - Structured the project for external contributions (CI, code reviews, coding standards)
 - Mentored 20+ contributors and handled technical and interpersonal conflicts
 - Balanced feature delivery, technical debt and product stability over multiple years
