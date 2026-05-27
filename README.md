@@ -29,8 +29,8 @@ Alongside my contracts, I'm also an open source maintainer and contributor in Py
 ### SightCall Q&A – RAG chatbot for a B2B SaaS website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/19d09da9-f02f-453f-ba24-9b07f2f4eaae/deploy-status)](https://sightcall-qa.netlify.app/)
-[![API CI](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml)
-[![API CD](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_delivery.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_delivery.yaml)
+[![Continuous Integration](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml)
+[![Continuous Delivery](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/deploy_api.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/deploy_api.yaml)
 [![API Coverage](https://codecov.io/gh/cmnemoi/sightcall_qa_api/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/sightcall_qa_api)
 
 [Live app](https://sightcall-qa.netlify.app) · [API repo](https://github.com/cmnemoi/sightcall_qa_api) · [Frontend repo](https://github.com/cmnemoi/sightcall-qa-app)
