@@ -66,12 +66,12 @@ Stack: **Python (FastAPI), TypeScript (Vue.js), Chroma DB, Docker, GitHub Action
 
 Stack: **PHP (Symfony), Vue.js, PostgreSQL, Docker, GitLab CI**
 
-> Maintainer between July 2022 and December 2025 (3 years 1/2)
-- Rebuilt and maintained a complex legacy system with no complete original source code
-- Ensured long-term stability, scalability and community adoption (20 -> 2.5k+ users)
-- Structured the project for external contributions (CI, code reviews, coding standards)
-- Mentored 20+ contributors and handled technical and interpersonal conflicts
-- Balanced feature delivery, technical debt and product stability over multiple years
+> Technical lead / maintainer from July 2022 to December 2025
+- Reconstructed and maintained a discontinued multiplayer game without access to its complete original source code
+- Grew the project from ~20 to 2.5k+ users while keeping the codebase stable and maintainable
+- Improved the existing architecture and testability of the codebase
+- Strengthened the existing CI, testing and code review practices
+- Mentored 20+ contributors and coordinated technical and product decisions
 
 ---
 
