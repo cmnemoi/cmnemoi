@@ -28,8 +28,8 @@ I drove architecture, technical and product decisions, reviewed and mentored **2
 
 [Codeurs en Seine 2026 (meetup)](https://www.youtube.com/watch?v=YID6FtZ8Bqc) · [Volcamp 2026](https://www.volcamp.io/talks/d2t3s1)
 
-## Elsewhere
+## Open source
 
-I've contributed to projects including [uv](https://github.com/astral-sh/uv/commits?author=cmnemoi), [pytest](https://github.com/pytest-dev/pytest/commits?author=cmnemoi), [Haystack](https://github.com/deepset-ai/haystack/commits?author=cmnemoi) and [Hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi).
+I've contributed to open source projects including [uv](https://github.com/astral-sh/uv/commits?author=cmnemoi), [pytest](https://github.com/pytest-dev/pytest/commits?author=cmnemoi), [Haystack](https://github.com/deepset-ai/haystack/commits?author=cmnemoi) and [Hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi).
 
 [LinkedIn](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-python/) · [Email](mailto:charlesmeldhine.madimnemoi@gmail.com)
