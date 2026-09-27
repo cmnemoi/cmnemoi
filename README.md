@@ -1,103 +1,35 @@
 # Hi, I'm Charles-Meldhine 👋
 
-I'm an **AI Software Engineer** freelancer with 4 years of experience, mainly in the **pharma industry** and **public administration**.
+I'm a **Software Engineer working mostly on AI systems**.
 
-Alongside my contracts, I'm also an open source maintainer and contributor in Python ecosystem and more.
+I started in data science, so I'm comfortable on both sides of the boundary: models and evaluation, but also architecture, testing and production software.
 
-## 🧰 Expertise
+I'm comfortable stepping into unfamiliar areas when the problem requires it.
 
-- **Python backend & DevOps**:
-  - API development with **FastAPI**, **CI/CD pipelines** (GitHub Actions, GitLab CI)
-  - **Testing & code quality** (pytest, coverage, static analysis)
-  - **Docker**, **GCP** (BigQuery, Cloud Run, Vertex AI), **Terraform**, **Grafana**
-- **Generative AI**: RAG pipelines, Langchain, Haystack, vector DBs (Chroma, Weaviate, PgVector)
-- **Frontend**: Vue.js, React
-- **Soft skills**: agile methods (Scrum, Kanban), technical documentation, product mindset
-- **Language**: English fluent (TOEIC 955)
+## Selected work
 
----
+### Production AI knowledge assistant
 
-## 📫 Contact
+I helped turn an internal RAG prototype into a production service used by **500+ people across three subsidiaries**.
 
-- [📧 Email](mailto:charlesmeldhine.madimnemoi@gmail.com)
-- [💼 LinkedIn](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-data-scientist-machine-learning-engineer-python-developer)
+I built its automated evaluation pipeline around a business-curated Q&A dataset and LLM-as-a-judge, and worked on improving answer quality up to an **80% correct-answer rate**. I also worked on the API, indexing pipelines, monitoring and reliability.
 
----
+### [eMush](https://emush.eternaltwin.org)
 
-## 📌 Selected Projects
+I was technical lead and main maintainer of this open-source multiplayer game remake from 2022 to 2025.
 
-### SightCall Q&A – RAG chatbot for a B2B SaaS website
+I drove architecture, technical and product decisions, reviewed and mentored **20+ contributors**, and helped grow the project to **2,500+ users**.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/19d09da9-f02f-453f-ba24-9b07f2f4eaae/deploy-status)](https://sightcall-qa.netlify.app/)
-[![Continuous Integration](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/continuous_integration.yaml)
-[![Continuous Delivery](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/deploy_api.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_qa_api/actions/workflows/deploy_api.yaml)
-[![API Coverage](https://codecov.io/gh/cmnemoi/sightcall_qa_api/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/sightcall_qa_api)
+[Source](https://gitlab.com/eternaltwin/mush/mush) · [Live app](https://emush.eternaltwin.org)
 
-[Live app](https://sightcall-qa.netlify.app) · [API repo](https://github.com/cmnemoi/sightcall_qa_api) · [Frontend repo](https://github.com/cmnemoi/sightcall-qa-app)
+## Talks
 
-Stack: **Python (FastAPI, pytest), React.js, Haystack, PostgreSQL, Docker, Terraform, GitHub Actions**
+**Archéologie logicielle : reconstruire un jeu sans son code source**
 
-> Built a RAG chatbot answering questions from SightCall’s public website. CI/CD pipelines, tests and coverage included.
+[Codeurs en Seine 2026 (meetup)](https://www.youtube.com/watch?v=YID6FtZ8Bqc) · [Volcamp 2026](https://www.volcamp.io/talks/d2t3s1)
 
----
+## Elsewhere
 
-### Ask NERON – Chatbot over unstructured documents (GenAI)
+I've contributed to projects including [uv](https://github.com/astral-sh/uv/commits?author=cmnemoi), [pytest](https://github.com/pytest-dev/pytest/commits?author=cmnemoi), [Haystack](https://github.com/deepset-ai/haystack/commits?author=cmnemoi) and [Hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/49ec8f74-e14b-4a9d-ac0e-a3947e403301/deploy-status)](https://askneron.netlify.app)
-[![API CI](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/continuous_integration.yaml)
-[![API CD](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml/badge.svg)](https://github.com/cmnemoi/emush_rag/actions/workflows/create_github_release.yaml)
-[![API Coverage](https://codecov.io/gh/cmnemoi/emush_rag/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/emush_rag)
-
-[Live app](https://askneron.netlify.app) · [API repo](https://github.com/cmnemoi/emush_rag) · [Frontend repo](https://github.com/cmnemoi/ask_neron_front)
-
-Stack: **Python (FastAPI), TypeScript (Vue.js), Chroma DB, Docker, GitHub Actions, OpenTelemetry, Grafana**
-
-> Developed a full RAG pipeline for a chatbot that answers questions from documentation, integrated monitoring and metrics. CI/CD pipelines, tests and coverage included.
-
----
-
-### eMush – Full-stack open source multiplayer remake
-
-[![pipeline](https://gitlab.com/eternaltwin/mush/mush/badges/develop/pipeline.svg)](https://gitlab.com/eternaltwin/mush/mush/-/pipelines?ref=develop)
-[![coverage](https://gitlab.com/eternaltwin/mush/mush/badges/develop/coverage.svg?job=api-test-develop&key_text=Backend+Coverage&key_width=130)](https://gitlab.com/eternaltwin/mush/mush/-/graphs/develop/charts)
-[![discord](https://user-content.gitlab-static.net/7e2a439cd72fbe75267ad51eece2abd136f004b2/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f363933303832303131343834363834333438)](https://discord.com/channels/693082011484684348/746873392463872071)
-
-[GitLab](https://gitlab.com/eternaltwin/mush/mush) · [Live app](https://emush.eternaltwin.org)
-
-Stack: **PHP (Symfony), Vue.js, PostgreSQL, Docker, GitLab CI**
-
-> Technical lead / maintainer from July 2022 to December 2025
-- Reconstructed and maintained a discontinued multiplayer game without access to its complete original source code
-- Grew the project from ~20 to 2.5k+ users while keeping the codebase stable and maintainable
-- Improved the existing architecture and testability of the codebase
-- Strengthened the existing CI, testing and code review practices
-- Mentored 20+ contributors and coordinated technical and product decisions
-
----
-
-### cmnemoi-learn – ML algorithms from scratch with best dev practices
-
-[![CI](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/continous_integration.yaml/badge.svg?branch=main)](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/continous_integration.yaml)
-[![CD](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/create_github_release.yaml/badge.svg?branch=main)](https://github.com/cmnemoi/cmnemoi-learn/actions/workflows/create_github_release.yaml)
-[![Coverage](https://coveralls.io/repos/github/cmnemoi/cmnemoi-learn/badge.svg?branch=main)](https://coveralls.io/github/cmnemoi/cmnemoi-learn?branch=main)
-[![PyPI version](https://badge.fury.io/py/cmnemoi-learn.svg)](https://badge.fury.io/py/cmnemoi-learn)
-
-[GitHub](https://github.com/cmnemoi/cmnemoi-learn) · [PyPI](https://pypi.org/project/cmnemoi-learn/)
-
-> Educational project: Machine Learning algorithms re-implemented from scratch (numpy only) with CI/CD, Pytest, Mypy, Pylint, auto-publishing on PyPI.
-
----
-
-## 🧪 OSS Contributions
-
-- [uv](https://github.com/astral-sh/uv/commits?author=cmnemoi)
-- [pytest](https://github.com/pytest-dev/pytest/commits?author=cmnemoi)
-- [haystack](https://github.com/deepset-ai/haystack/commits?author=cmnemoi)
-- [haystack integrations](https://github.com/deepset-ai/haystack-core-integrations/commits?author=cmnemoi)
-- [hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi)
-- [Phaser](https://github.com/phaserjs/phaser/pull/7246)
-- [vtl (V tensor lib)](https://github.com/vlang/vtl/commits?author=cmnemoi)
-- [visions](https://github.com/dylan-profiler/visions/commits?author=cmnemoi)
-- [Refactoring Guru examples](https://github.com/RefactoringGuru/refactoring-examples/commits?author=cmnemoi)
-- [srcomapi](https://github.com/blha303/srcomapi/commits?author=cmnemoi)
-- [LiveSplit autosplitters](https://github.com/LiveSplit/LiveSplit.AutoSplitters/commits?author=cmnemoi)
+[LinkedIn](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-python/) · [Email](mailto:charlesmeldhine.madimnemoi@gmail.com)
