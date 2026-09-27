@@ -16,7 +16,7 @@ I built its automated evaluation pipeline around a business-curated Q&A dataset 
 
 ### [eMush](https://emush.eternaltwin.org)
 
-I was technical lead and main maintainer of this open-source multiplayer game remake from 2022 to 2025.
+I was a technical lead and maintainer of this open-source multiplayer game remake from 2022 to 2025.
 
 I drove architecture, technical and product decisions, reviewed and mentored **20+ contributors**, and helped grow the project to **2,500+ users**.
 
