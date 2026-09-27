@@ -4,7 +4,7 @@ I'm a **Software Engineer working mostly on AI systems**.
 
 I started in data science, so I'm comfortable on both sides of the boundary: models and evaluation, but also architecture, testing and production software.
 
-I'm comfortable stepping into unfamiliar areas when the problem requires it.
+My work has often taken me outside my initial area of expertise, and I'm comfortable stepping into unfamiliar areas when the problem requires it.
 
 ## Selected work
 
