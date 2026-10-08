@@ -26,7 +26,7 @@ I drove architecture, technical and product decisions, reviewed and mentored **2
 
 **Archéologie logicielle : reconstruire un jeu sans son code source**
 
-[Codeurs en Seine 2026 (meetup)](https://www.youtube.com/watch?v=YID6FtZ8Bqc) · [Volcamp 2026](https://www.volcamp.io/talks/d2t3s1)
+[Volcamp 2026](www.youtube.com/watch?v=yp8oUpsVLbE)
 
 ## Open source
 
