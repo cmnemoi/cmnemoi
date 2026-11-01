@@ -43,4 +43,4 @@ I drove architecture, technical and product decisions, reviewed and mentored **2
 
 I've contributed to open source projects including [uv](https://github.com/astral-sh/uv/commits?author=cmnemoi), [pytest](https://github.com/pytest-dev/pytest/commits?author=cmnemoi), [Haystack](https://github.com/deepset-ai/haystack/commits?author=cmnemoi) and [Hatch](https://github.com/pypa/hatch/commits/hatch-v1.13.x?author=cmnemoi).
 
-[Website](https://cmnemoi.github.io/) · [LinkedIn](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-python/) · [Email](mailto:charlesmeldhine.madimnemoi@gmail.com)
+[Website](https://cmnemoi.com/) · [LinkedIn](https://www.linkedin.com/in/madi-mnemoi-charles-meldhine-python/) · [Email](mailto:charlesmeldhine.madimnemoi@gmail.com)
